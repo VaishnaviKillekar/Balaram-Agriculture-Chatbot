@@ -1,0 +1,129 @@
+Query,Intent
+How to grow Rice?,Cultivation
+I want to grow rice.,Cultivation
+How much water to add for Wheat?,Irrigation
+Best season to grow sugarcane,Cultivation
+Yield of wheat,Yield
+Average yield of rice,Yield
+What is the yield of rice in Belgaum?,Yield
+Best pesticide for cotton ,Pesticide
+Best soil for cotton,Soil
+How much fertilizer should I add to my rice crop?,Fertilizer
+When to sow cotton?,Cultivation
+When to harvest wheat?,HarvestTime
+How to enhance yield of sugarcane?,BestPractice
+I want to grow paddy.,Cultivation
+How to grow maize?,Cultivation
+Which fertilizer can I use for sugarcane?,Fertilizer
+How is the weather today?,Weather
+How is the weather tomorrow?,Weather
+What's the weather in Mysore this week?,Weather
+Weather this week.,Weather
+Weather forecast for the week.,Weather
+How is the climate today?,Weather
+Climate conditions for the upcoming days.,Weather
+Weather report for the day.,Weather
+Will it rain today?,Weather
+Is it going to be sunny this week?,Weather
+What will the weather be like this week?,Weather
+Can I expect it to be sunny today?,Weather
+Which is the season for growing rice?,CultivationSeason
+Season for growing wheat.,CultivationSeason
+How much cotton seeds are needed for one acre of land?,SeedDensity
+Can I grow rice in red soil?,Soil
+Best soil for growing maize.,Soil
+Irrigation for sugarcane.,Irrigation
+Which are the available seed varieties for rice?,Varieties
+Rice varieties.,Varieties
+Different types of wheat seeds.,Varieties
+Types of seeds of cotton.,Varieties
+Which cotton seed grows well in black soil?,Soil
+How long does it take to grow rice?,Maturity
+How many months does sugarcane take?,Maturity
+Time taken to grow paddy.,Maturity
+Which month to reap maize,ReapingSeason
+Reaping time of sugarcane,ReapingSeason
+Wheat reaping season,ReapingSeason
+Cost of sunflower seeds.,MarketPrice
+Best places to grow cotton.,Location
+How much rainfall does cotton need?,Rainfall
+Fertilizer does for maize.,Fertilizer
+Attack of insects on rice.,Pesticide
+Protect against diseases.,Diseases
+Weeds control.,Pesticide
+Weeds are growing along with my crop.,Pesticide
+Leaves are falling off from wheat crop.,Pesticide
+Caterpillars are eating all leaves.,Pesticide
+What is the market price of rice?,MarketPrice
+How much is the cost of 10 kgs of wheat?,MarketPrice
+What are the prices of sugarcane?,MarketPrice
+Market prices of cotton in Belgaum,MarketPrice
+Attack of Stem borer on sugarcane.,Pesticide
+When to cultivate maize?,CultivationSeason
+Ideal rainfall for cotton?,Rainfall
+Which season to grow rice in?,CultivationSeason
+How to improve rice production?,BestPractice
+Market price of maize?,MarketPrice
+Will there be timely rain?,Weather
+Types of sugarcane.,Varieties
+Hello Balaram!,Greeting
+Hi,Greeting
+Hello!,Greeting
+Hey there,Greeting
+Hey,Greeting
+Namaskar,Greeting
+Namaste,Greeting
+Wassup?,Wassup
+What are you doing?,Wassup
+What is up with you?,Wassup
+What are you up to?,Wassup
+How is it going?,Wassup
+How are you?,Wellness
+How you doing?,Wellness
+How are you doing?,Wellness
+Are you doing well?,Wellness
+Are you okay?,Wellness
+Are you fine?,Wellness
+Are you doing okay?,Wellness
+Is everything okay?,Wellness
+Are you all right?,Wellness
+You alright?,Wellness
+How was your day?,EnquireAboutDay
+How is your day going?,EnquireAboutDay
+How is your day?,EnquireAboutDay
+I need help!,AskingHelp
+Need help!,AskingHelp
+Help me please,AskingHelp
+Help me,AskingHelp
+Help,AskingHelp
+Can you do something for me?,AskingHelp
+I need you to do me a favour.,AskingHelp
+Can you do me a favour?,AskingHelp
+Can you help me?,AskingHelp
+I need your help!,AskingHelp
+Please help me.,AskingHelp
+I need an answer.,AskingHelp
+Answer my question.,AskingHelp
+Help please,AskingHelp
+Who is the President?,OutOfScope
+Who is the Prime Minister?,OutOfScope
+How many kids do you have?,Family
+Are you an Indian citizen?,OutOfScope
+Who is your father?,Family
+What is your father's name?,Family
+What is your mother's name?,Family
+Do you have parents?,Family
+Do you have siblings?,Family
+Who is you wife?,Family
+What is your wife's name?,Family
+Are you married?,Family
+What is my mother's name?,OutOfScope
+Are you a supporter of BJP?,OutOfScope
+Are you active in politics?,OutOfScope
+Are you a God?,Sarcasm
+How old are you?,Sarcasm
+Are you a man?,Sarcasm
+Are you a bot?,Sarcasm
+Do you have a job?,Sarcasm
+Who is your best friend?,Sarcasm
+Am I your friend?,Sarcasm
